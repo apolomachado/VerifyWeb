@@ -1,0 +1,11 @@
+MySQL:
+  Address: localhost
+  Database: mysql
+  Username: root
+  Password: ''
+  Table: verified-accounts
+
+KickMessage:
+  - '&c&lVerifyWeb'
+  - '&cYou are not verified.'
+  - '&cVerify yourself on our website: &nwww.refugeland.net'
